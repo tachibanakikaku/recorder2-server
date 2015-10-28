@@ -1,5 +1,5 @@
 application: recorder2-1105
-version: alpha-001
+version: alpha-002
 runtime: go
 api_version: go1
 
